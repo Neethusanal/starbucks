@@ -1,0 +1,380 @@
+.container {
+    width: 100%;
+
+}
+
+.header {
+
+    background-color: white;
+    width: 100%;
+    height: 100px;
+    display: flex;
+
+}
+
+.subheader1 {
+
+    width: 50%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+
+.logo {
+    background-image: url("./images/asset\ 0.svg");
+    background-repeat: no-repeat;
+    height: 70px;
+    width: 100px;
+    position: relative;
+    top: 10px;
+    left: 30px;
+
+
+
+}
+
+.subheader1 a {
+
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 40px;
+    left: 50px;
+    color: black;
+    padding: 10px;
+
+}
+
+.subheader2 {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    height: 100px;
+
+}
+
+.store i {
+    position: relative;
+    top: 40px;
+    left: 180px;
+}
+
+
+
+.store h4 {
+    color: black;
+    position: relative;
+    left: 220px;
+
+
+
+}
+
+.button1 {
+    width: 90px;
+    height: 40px;
+    background-color: white;
+    border-radius: 20px;
+    border-width: thin;
+    padding: 5px 5px;
+    border-color: white;
+    position: relative;
+    top: 30px;
+    left: 250px;
+    cursor: pointer;
+}
+
+.button1 a {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+.button2 {
+    width: 90px;
+    height: 40px;
+    background-color: black;
+    border-radius: 20px;
+    border-width: thin;
+    padding: 5px 5px;
+    border-color: black;
+    position: relative;
+    top: 30px;
+    left: 280px;
+    cursor: pointer;
+}
+
+.button2 a {
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+.linkaccounts {
+    width: 100%;
+    height: 500px;
+    background-color: #d4e9e2;
+    margin-top: 30px;
+    display: flex;
+
+}
+
+.image1 {
+    width: 650PX;
+    height: 500px;
+
+
+}
+
+.firstimg {
+    width: 650PX;
+    height: 400PX;
+    position: relative;
+    top: 50px;
+    bottom: 50px;
+}
+
+.Text1 {
+    width: 40%;
+    height: 500px;
+    position: relative;
+    left: 30px;
+
+}
+
+.Text1 h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.Text1 p {
+    font-size: 19px;
+    line-height: 30px;
+}
+
+.list {
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 200px;
+
+}
+
+.button3 {
+    width: 100px;
+    height: 40px;
+    background-color: #d4e9e2;
+    border-radius: 20px;
+    border-width: thin;
+    padding: 4px 4px;
+    position: relative;
+    left: 40px
+}
+
+.button3 a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.Buynow {
+    width: 100%;
+    height: 350px;
+    margin-top: 30px;
+    display: flex;
+
+}
+
+.Text2 {
+    width: 50%;
+    height: 350px;
+    background-color: #006241;
+
+
+}
+
+.Text2 h3 {
+    text-align: center;
+    padding-top: 140px;
+    color: white;
+    font-size: 24px;
+}
+
+.Text2 h4 {
+    text-align: center;
+    padding-bottom: 60px;
+    color: white;
+    font-size: 18px;
+}
+
+.button4 {
+
+    width: 90px;
+    height: 40px;
+    background-color: #006242;
+    border-radius: 20px;
+    border-width: thin;
+    padding: 5px 5px;
+    border-color: white;
+    position: relative;
+    left: 220px;
+    bottom: 60px;
+
+}
+
+.button4 a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.image2 {
+    width: 50%;
+    height: 350px;
+    background-color: #ff4713;
+}
+
+.secondimage {
+    width: 650px;
+    height: 350px;
+
+}
+
+.Main1 {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    margin-top: 30px;
+
+}
+
+.image3 {
+
+    width: 50%;
+    height: 500px;
+}
+
+.thirdimage {
+    width: 625px;
+    height: 500px;
+}
+
+.Text3 {
+    width: 50%;
+    height: 500px;
+    background-color: #006241;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 50px
+}
+
+.Text3 h2 {
+    padding-top: 40px;
+    font-size: 50px;
+    line-height: 60px;
+
+}
+
+.Text3 h3 {
+    font-size: 24px;
+}
+
+.button5 {
+
+    width: 90px;
+    height: 40px;
+    background-color: #006242;
+    border-radius: 40px;
+    border-width: thin;
+    padding: 5px 5px;
+    border-color: white;
+    position: relative;
+    left: 20px;
+    bottom: 30px;
+
+}
+
+.button5 a {
+    text-decoration: none;
+    color: white;
+
+
+}
+
+.paragraph {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    padding-top: 80px;
+    line-height: 20px;
+    font-size: 16px;
+}
+
+.paragraph a {
+    color: black;
+
+}
+
+.footer {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    border-bottom: 1px solid gray;
+
+}
+
+.Aboutus {
+    width: 250px;
+    height: 400px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.list1 {
+    width: 200px;
+    height: 400px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    line-height: 40px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+
+}
+
+.social {
+    display: flex;
+    width: 100%;
+    height: 80px;
+
+
+}
+
+.socialshare {
+    width: 40px;
+    height: 40px;
+    padding: 20px 0 0 20px;
+}
+
+.conditions {
+    display: flex;
+    width: 100%;
+    height: 40px;
+
+
+}
+
+.policy {
+
+    width: 20%;
+    text-align: center;
+    border-right: 1px solid black;
+
+}
